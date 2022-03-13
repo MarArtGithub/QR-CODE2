@@ -1,0 +1,44 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: lightblue;
+}
+
+.wrapper {
+	width: 300px;
+	height: 500px;
+	background-color: whitesmoke;
+	border-radius: 4%;
+	margin: 10% auto;
+	box-shadow: 3px 4px 20px gray;
+}
+
+img {
+	width: 100%;
+	padding: 20px;
+	border-radius: 10%;
+}
+
+.text {
+	text-align: center;
+	font-family: 'Outfit', sans-serif;
+    
+}
+
+p {
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 15px;
+}
+
+h3{
+    
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
